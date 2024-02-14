@@ -26,6 +26,3 @@ displaydoc = "0.1"
 [dev-dependencies]
 image = { version = "0.23.9" }
 serde_json = "1.0.57"
-
-[patch.crates-io]
-libnspire-sys = { git = "https://github.com/rawlingsr/libnspire-rs.git", branch = "update-rusb" }
